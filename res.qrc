@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/accountManagement_icon.png</file>
+        <file>res/aim_icon.png</file>
+        <file>res/camera_icon.png</file>
+        <file>res/collections_icon.png</file>
+        <file>res/home_icon.png</file>
+        <file>res/menu_icon.png</file>
+        <file>res/newProject.png</file>
+        <file>res/settings_icon.png</file>
+        <file>res/targetPointerAim_icon.png</file>
+        <file>res/torch_icon.png</file>
+    </qresource>
+</RCC>
